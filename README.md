@@ -11,5 +11,5 @@ C:\Usuários\SeuNome\Documentos\TelaFacil
 
 
 2. Baixe o `.zip` deste repositório clicando em `Code > Download ZIP`, ou clone o repositório na pasta criada
-3. 
+
 
